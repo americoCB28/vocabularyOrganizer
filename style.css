@@ -1,0 +1,36 @@
+body{
+	background-color: lightBlue;
+}
+h2{
+	font-family: Arial;
+}
+h3{
+	font-family: Courier New;
+}
+p{
+	font-style: italic;
+}
+div{
+	background-color: aliceblue;
+	padding: 5%;
+	margin: 5%;
+	font-size: 20px;
+}
+.h3one{
+	background-color: darkSeaGreen;
+}
+.p1{
+	background-color: red;
+}
+.h3two{
+	background-color: khaki;
+}
+.p2{
+	background-color: green;
+}
+.h3thri{
+	background-color: pink;
+}
+.p3{
+	background-color: yellow;
+}
